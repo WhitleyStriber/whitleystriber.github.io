@@ -1,0 +1,5 @@
+:root, [data-bs-theme=light] {
+  --bs-border-width: 9px;
+  --bs-border-color: rgba(222,226,230,0);
+}
+
